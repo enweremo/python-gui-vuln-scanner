@@ -63,7 +63,7 @@ python-capstone-scanner/
                
 The GUI (top) is the user-facing controller: it collects inputs and starts tasks for the three modules. Each module runs its scanner implementation (crawler, Nmap, Nikto) and streams live output back to the central result display. Shared components (progress indicator, cancel control, and save/export routines) keep the UI responsive and provide a consistent user experience. Exported results are written into the `results/` folder in the selected format (TXT, CSV, PDF, HTML).
 
-**How to read the diagram (short):**
+**How to read the diagram:**
 - **GUI (Tkinter)** — single entrypoint that orchestrates modules and receives user actions.  
 - **Web Crawler** — fetches pages, extracts titles/meta/links and returns structured results.  
 - **Nmap** — runs `nmap` subprocesses, streams stdout/stderr lines to the GUI in real time.  
