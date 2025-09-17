@@ -1,0 +1,17 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-04 20:55 CST
+Nmap scan report for 192.168.10.5
+Host is up (0.0013s latency).
+Not shown: 991 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+22/tcp   open   ssh
+80/tcp   open   http
+445/tcp  open   microsoft-ds
+631/tcp  open   ipp
+3000/tcp closed ppp
+3306/tcp open   mysql
+8080/tcp open   http-proxy
+8181/tcp closed intermapper
+MAC Address: 08:00:27:5B:FF:A7 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 4.78 seconds

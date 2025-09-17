@@ -1,0 +1,80 @@
+URL: https://enweremo.github.io/Eventplanning/
+Title: Eventshare Homepage
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/aboutus.html
+Title: About us
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/events.html
+Title: Events
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/events-news.html
+Title: News
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/contact.html
+Title: Contact
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/login.html
+Title: Login
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/register.html
+Title: Register
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/indigenous.html#canada-day
+Title: Indigenous events
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/music-event.html
+Title: Music Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/diaspora.html#african-festivals
+Title: Diaspora Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/music-event.html#disco
+Title: Music Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/diaspora.html#latino-dance
+Title: Diaspora Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/indigenous.html#fireworks
+Title: Indigenous events
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/diaspora.html#asian-festivals
+Title: Diaspora Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/music-event.html#theatre-art
+Title: Music Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/diaspora.html#caribbean-festivals
+Title: Diaspora Festival
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/winter-event.html#winter-event
+Title: Winter Events
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/meetup-event.html#meetup-event
+Title: Meet-up
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/indigenous.html#indigenous-festival
+Title: Indigenous events
+Description: No Description
+--------------------------------------------------
+URL: https://enweremo.github.io/Eventplanning/music-event.html#country-thunder
+Title: Music Festival
+Description: No Description
+--------------------------------------------------
