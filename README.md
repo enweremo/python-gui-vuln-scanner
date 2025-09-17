@@ -75,14 +75,17 @@ The GUI (top) is the user-facing controller: it collects inputs and starts tasks
 ### 5.2 GUI Screenshots & Explanations
 
 **Web Crawler Tab**  
+
 ![Crawler UI](docs/screenshots/gui_crawler.png)  
 *Explanation:* The Crawler tab accepts a start URL and optional `max_pages`. When a crawl runs it shows a streaming output pane with each visited URL and extracted metadata (Title, Description). A progress indicator shows pages processed and the Cancel button sets the crawler stop-flag to safely terminate the thread. Use *Save* to export the collected records (TXT/CSV/PDF).
 
 **Nmap Scanner Tab**  
+
 ![Nmap UI](docs/screenshots/gui_nmap.png)  
 *Explanation:* The Nmap tab exposes the target field, optional port range, and a scan type selector (SYN, SYN+OS+Version, Aggressive). Starting a scan spawns the `nmap` subprocess and streams line-buffered output into the live pane. The Cancel button terminates the subprocess; Save exports raw `nmap` output to TXT (or PDF if selected).
 
 **Nikto Scanner Tab**  
+
 ![Nikto UI](docs/screenshots/gui_nikto.png)  
 *Explanation:* The Nikto tab allows choosing ports, tuning codes (drop-down or custom), plugins and evasion options. When executed, Nikto runs and writes its report directly to the selected output format (text, HTML, CSV or XML). The GUI shows the running output and lets the user cancel the job.
 
