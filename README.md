@@ -60,7 +60,8 @@ python-capstone-scanner/
 ### 5.1 System Architecture
 ![Architecture Diagram](docs/architecture.png)
 
-**Figure 1 — Architecture overview.**  
+               **Figure 1 — Architecture overview.**  
+               
 The GUI (top) is the user-facing controller: it collects inputs and starts tasks for the three modules. Each module runs its scanner implementation (crawler, Nmap, Nikto) and streams live output back to the central result display. Shared components (progress indicator, cancel control, and save/export routines) keep the UI responsive and provide a consistent user experience. Exported results are written into the `results/` folder in the selected format (TXT, CSV, PDF, HTML).
 
 **How to read the diagram (short):**
